@@ -72,6 +72,7 @@ The entry criterias defined in the Test Planning phase have been achieved and th
 ## 1.2 Test Monitoring and Control
 
 It will be done by generating periodic reports that reflect the current status of the test.
+![scr 2 cumulatie flow diagram](https://user-images.githubusercontent.com/106865774/171996039-47f4c836-fee2-4b5a-a3a2-c3adbd7c3187.png)
 
 ## 1.3 Test Analysis
 
