@@ -30,6 +30,13 @@ The plan identifies the items to be tested, the features to be tested, the types
 
 
 #### 1.1.1 Roles assigned to the project and persons allocated
+ 
+   * Project manager- Albu Iulia
+   * Bisness Analyst- Olariu Razvan
+   * Developer-Succiu Tiberiu
+   * QA Enhineer- Hatos Valy
+   * Tester- Macuh Nina
+
 
 
 #### 1.1.2 Entry criteria defined
