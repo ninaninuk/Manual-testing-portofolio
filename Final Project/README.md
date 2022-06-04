@@ -88,4 +88,4 @@ The following elements are needed to be ready before the test execution phase be
 -> enter here test execution report/chart
 
 # 2 SQL section
-Created a database named 'orangehrm' and a table named 'dependents' with all the columns needed to save data per specifications. Performed different queries inside the sql file: [languages_sql.sql]()
+Created a database named 'orangehrm' and a table named 'dependents' with all the columns needed to save data per specifications. Performed different queries inside the sql file: [languages_sql.sql](6bad87657b01698fc769509b7b21c869c4382d74)
