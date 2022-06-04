@@ -101,20 +101,31 @@ The test cases with steps can be viewed here: [test_cases.pdf](https://github.co
 
 The following elements are needed to be ready before the test execution phase begins:
 
-* enter here what needs to be ready for the test execution to begin
+  * Testing environment is up and running: https://opensource-demo.orangehrmlive.com/
+  * Access to the testing environment is given: Username : Admin | Password : admin123
+  * Cycle summary was created
+  * Test cases were added to the cycle summary
+
 
 ## 1.6 Test Execution
 
 * Test cases are executed on the created test Cycle summary: [cycle_summary_execution.pdf](https://github.com/NinaMacuh/Manual-testing-portofolio/blob/main/Final%20Project/cycle_summary_execution.pdf)
 * Bugs have been created based on the failed tests. The complete bug reports can be found here: [created_bugs.pdf]()
-    *  enter here bug titles
+    
+  * 'Competency' drop-down contains other values.
+  * 'Fluency' drop-down contains other values.
+  *  Can not add a comments that is 200 characters is long
+  *  [Languages] A Language cannot be added
+ 
 
 
 ## 1.7 Test Completion
 
 * Exit criteria was evaluated and passed
 * The traceability matrix was generated and can be found here: [Traceability_matrix.csv]()
-* Test execution chart was generated, the final report shows.... -> describe the final report
+* Test execution chart was generated, the final report shows a number 4 tests have failed of a total 20
+* A number of 20 test cases were planned for execution and all of them were executed
+* A number of 4 total bugs were found, from which the priority is: 1 is high, 2 are medium and 1 is highest
 
 -> enter here test execution report/chart
 
