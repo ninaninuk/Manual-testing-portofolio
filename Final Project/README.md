@@ -127,7 +127,7 @@ The following elements are needed to be ready before the test execution phase be
 * A number of 20 test cases were planned for execution and all of them were executed
 * A number of 4 total bugs were found, from which the priority is: 1 is high, 2 are medium and 1 is highest
 
-![pie chart](https://user-images.githubusercontent.com/106865774/171998166-6e2f93f4-3128-470e-bce6-3ee7eb502210.png)
+  ![PIE CEART ](https://user-images.githubusercontent.com/106865774/171998275-9b52e4e6-5b6d-4cbc-beda-054b73d7b48c.png)
 
 
 # 2 SQL section
