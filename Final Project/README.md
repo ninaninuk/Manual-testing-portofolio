@@ -127,7 +127,8 @@ The following elements are needed to be ready before the test execution phase be
 * A number of 20 test cases were planned for execution and all of them were executed
 * A number of 4 total bugs were found, from which the priority is: 1 is high, 2 are medium and 1 is highest
 
--> enter here test execution report/chart
+![pie chart](https://user-images.githubusercontent.com/106865774/171998166-6e2f93f4-3128-470e-bce6-3ee7eb502210.png)
+
 
 # 2 SQL section
 Created a database named 'orangehrm' and a table named 'dependents' with all the columns needed to save data per specifications. Performed different queries inside the sql file: [languages_sql.sql](https://github.com/NinaMacuh/Manual-testing-portofolio/blob/main/Final%20Project/languages_sql.sql)
