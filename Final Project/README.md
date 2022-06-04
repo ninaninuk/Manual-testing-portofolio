@@ -88,11 +88,11 @@ The testing process will be executed based on the above requirements for the Dep
 ## 1.4 Test Design
 
 Functional test cases were created in Zephyr Squad. Based on the analysis of the specifications, the test design techniques used for generating test cases 
-are:![image](https://user-images.githubusercontent.com/106865774/171996993-2fc62730-5583-4507-bd1f-0e4fdbd207db.png)
-
+are:
 
 **Test cases:**
 
+![image](https://user-images.githubusercontent.com/106865774/171997028-ff444a8a-9dbe-4d27-a897-a9cf67c7f26d.png)
 
 
 The test cases with steps can be viewed here: [test_cases.pdf]()
