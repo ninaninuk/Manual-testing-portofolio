@@ -14,10 +14,8 @@ API Documentation: https://orangehrm.github.io/orangehrm-api-doc/
 Tools used: JIRA, Zephyr Squad, Postman, MySQL Workbench
 
 # Functional specifications
-
-![170871991-08bfac0e-bd51-4f7c-b7d8-6ba4bf211608](https://user-images.githubusercontent.com/106865774/171995528-87dc4a14-aaa8-4fdc-b737-f67bfa469890.png)
-
-
+-> scr 1 Jira
+![image](https://user-images.githubusercontent.com/103954664/170871991-08bfac0e-bd51-4f7c-b7d8-6ba4bf211608.png)
 # 1 Testing section
 
 ## 1.1 Test Planning
