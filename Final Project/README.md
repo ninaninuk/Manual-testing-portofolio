@@ -3,17 +3,19 @@
 
 The scope of the final project for ITF Manual Testing Course is to use all gained knowledge throught the course and apply them in practice, using a live application. 
 
-Application under test: 
+Application under test: https://opensource-demo.orangehrmlive.com/
 
-API Documentation: 
+API Documentation: https://orangehrm.github.io/orangehrm-api-doc/
+
+
 
 **The final project will be split into 2 sections: [Testing section](https://github.com/NinaMacuh/Manual-testing-portofolio/blob/main/Final%20Project/README.md#1-testing-section) and [SQL section](https://github.com/NinaMacuh/Manual-testing-portofolio/blob/main/Final%20Project/README.md#1-testing-section).**
 
-Tools used:
+Tools used: JIRA, Zephyr Squad, Postman, MySQL Workbench
 
 # Functional specifications
 
--> enter here the functional specifications created in JIRA
+![170871991-08bfac0e-bd51-4f7c-b7d8-6ba4bf211608](https://user-images.githubusercontent.com/106865774/171995528-87dc4a14-aaa8-4fdc-b737-f67bfa469890.png)
 
 
 # 1 Testing section
@@ -23,6 +25,7 @@ Tools used:
 The Test Plan is designed to describe all details of testing for the X module from the OrangeHRM application. 
 
 The plan identifies the items to be tested, the features to be tested, the types of testing to be performed, the personnel responsible for testing, the resources and schedule required to complete testing, and the risks associated with the plan
+https://user-images.githubusercontent.com/103954664/170875811-e84e2264-4db9-4584-93c1-aa0247076aec.png
 
 #### 1.1.1 Roles assigned to the project and persons allocated
 
