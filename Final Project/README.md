@@ -14,7 +14,7 @@ API Documentation: https://orangehrm.github.io/orangehrm-api-doc/
 Tools used: JIRA, Zephyr Squad, Postman, MySQL Workbench
 
 # Functional specifications
-
+ * The below Story was created in JIRA and describes the functional specifications of the Linguages module, for which the final project is performed upon.
 ![image](https://user-images.githubusercontent.com/106865774/171999290-1ed6ac32-0081-47a0-ab87-e88389bf7da6.png)
 
 # 1 Testing section
