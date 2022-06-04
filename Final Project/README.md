@@ -26,7 +26,6 @@ The Test Plan is designed to describe all details of testing for the X module fr
 
 The plan identifies the items to be tested, the features to be tested, the types of testing to be performed, the personnel responsible for testing, the resources and schedule required to complete testing, and the risks associated with the plan
 ![test planing](https://user-images.githubusercontent.com/106865774/171995656-f0def037-0b6a-4c01-be70-798e8a688741.png)
-
 #### 1.1.1 Roles assigned to the project and persons allocated
  
    * Project manager- Albu Iulia
@@ -126,6 +125,8 @@ The following elements are needed to be ready before the test execution phase be
 * Test execution chart was generated, the final report shows a number 4 tests have failed of a total 20
 * A number of 20 test cases were planned for execution and all of them were executed
 * A number of 4 total bugs were found, from which the priority is: 1 is high, 2 are medium and 1 is highest
+
+ * Pie chart report
 
   ![PIE CEART ](https://user-images.githubusercontent.com/106865774/171998275-9b52e4e6-5b6d-4cbc-beda-054b73d7b48c.png)
 
