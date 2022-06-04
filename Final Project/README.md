@@ -25,9 +25,7 @@ Tools used: JIRA, Zephyr Squad, Postman, MySQL Workbench
 The Test Plan is designed to describe all details of testing for the X module from the OrangeHRM application. 
 
 The plan identifies the items to be tested, the features to be tested, the types of testing to be performed, the personnel responsible for testing, the resources and schedule required to complete testing, and the risks associated with the plan
-
 ![test planing](https://user-images.githubusercontent.com/106865774/171995656-f0def037-0b6a-4c01-be70-798e8a688741.png)
-
 
 #### 1.1.1 Roles assigned to the project and persons allocated
  
@@ -77,7 +75,15 @@ It will be done by generating periodic reports that reflect the current status o
 ## 1.3 Test Analysis
 
 The testing process will be executed based on the above requirements for the Dependents module. The following test conditions were found:
- * Enter test conditions here
+
+  * Enter data only for mandatory fields and check that the language is created/updated
+  * Enter data for all available fields and check that the language is created/updated
+  * Leave mandatory fields empty and check that the language cannot be created/updated
+  * View language details and check they are correct
+  * View all languages in a list
+  * Check all validation constraints for the fields
+  * Check that a languages can be deleted
+
 
 ## 1.4 Test Design
 
@@ -85,7 +91,7 @@ Functional test cases were created in Zephyr Squad. Based on the analysis of the
 are:
 
 **Test cases:**
--> enter here test cases or at least the titles
+
 
 
 The test cases with steps can be viewed here: [test_cases.pdf]()
