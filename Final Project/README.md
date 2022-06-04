@@ -41,18 +41,29 @@ The plan identifies the items to be tested, the features to be tested, the types
 
 #### 1.1.2 Entry criteria defined
 
+ * The application must be prepared.
+ * Functional specifications are defined
+ * Initial project risks were detected and mitigated
+ * Roles needed for the project are allocated
+ * Test data should be ready
 
 #### 1.1.3 Exit criteria defined
+  
+ * Exploratory regression testing must be performed on the My Info module, which includes the Languages section
+ * All user stories in the sprint backlog must be completed
+ * All design tasks and special tasks picked for the sprint must be completed
+ * Regression testing of all features developed in all previous sprints must be executed
+ * No critical issues must be open
 
 #### 1.1.4 Test scope
 
-* __Tests in scope:__ 
-* __Tests not in scope:__ 
+* __Tests in scope:__  All the feature of Dependents module which were defined in software requirement specs need to be tested: functional testing, GUI testing and API testing
+* __Tests not in scope:__ Performance testing, integrations of the dependents module with other modules, compatibility testing with multiple browsers
 
 #### 1.1.5 Risks detected
 
-* Project risks: 
-* Product risks: 
+* Project risks:  lack of experience of the QA team, short deadline of Zephyr Squad trial, unavailability of test environment; communication with the team ;
+* Product risks: validation constraints on the fields might be too restrictive to the end-user; poor quality;
 
 #### 1.1.6 Evaluating entry criteria
 
