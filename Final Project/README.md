@@ -21,7 +21,7 @@ Tools used: JIRA, Zephyr Squad, Postman, MySQL Workbench
 
 ## 1.1 Test Planning
 
-The Test Plan is designed to describe all details of testing for the X module from the OrangeHRM application. 
+The Test Plan is designed to describe all details of testing for the Languages module from the OrangeHRM application. 
 
 The plan identifies the items to be tested, the features to be tested, the types of testing to be performed, the personnel responsible for testing, the resources and schedule required to complete testing, and the risks associated with the plan
 ![test planing](https://user-images.githubusercontent.com/106865774/171998927-bf0c780c-53ee-491b-a12e-16ef6a5a61c2.png)
@@ -31,8 +31,8 @@ The plan identifies the items to be tested, the features to be tested, the types
    * Project manager- Albu Iulia
    * Bisness Analyst- Olariu Razvan
    * Developer-Succiu Tiberiu
-   * QA Enhineer- Hatos Valy
-   * Tester- Macuh Nina
+   * QA Enhineer- Macuh Nina
+  
 
 
 
@@ -54,7 +54,7 @@ The plan identifies the items to be tested, the features to be tested, the types
 
 #### 1.1.4 Test scope
 
-* __Tests in scope:__  All the feature of Dependents module which were defined in software requirement specs need to be tested: functional testing, GUI testing and API testing
+* __Tests in scope:__  All the feature of Languages module which were defined in software requirement specs need to be tested: functional testing, GUI testing and API testing
 * __Tests not in scope:__ Performance testing, integrations of the dependents module with other modules, compatibility testing with multiple browsers
 
 #### 1.1.5 Risks detected
@@ -73,7 +73,7 @@ It will be done by generating periodic reports that reflect the current status o
 
 ## 1.3 Test Analysis
 
-The testing process will be executed based on the above requirements for the Dependents module. The following test conditions were found:
+The testing process will be executed based on the above requirements for the Languages module. The following test conditions were found:
 
   * Enter data only for mandatory fields and check that the language is created/updated
   * Enter data for all available fields and check that the language is created/updated
